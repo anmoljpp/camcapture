@@ -71,6 +71,3 @@ This project captures live video from a connected camera, displays a countdown t
 - Ensure the connected camera is detected and properly configured.
 - Make sure the `captured_images` directory has write permissions.
 
-## License
-This project is open-source and available under the MIT License.
-
